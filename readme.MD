@@ -7,5 +7,5 @@
 
 ## Masala dosa
 * batter
-* masala
+* masala and gun powders
 * oil

@@ -11,3 +11,5 @@
 * oil
 * karam
 * chutney
+* podi
+* onion

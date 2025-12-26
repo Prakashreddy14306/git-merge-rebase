@@ -10,6 +10,8 @@
 * masala
 * oil
 * karam
-* chutney
 * podi
 * onion
+
+ 
+

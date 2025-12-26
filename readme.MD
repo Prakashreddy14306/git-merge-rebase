@@ -9,3 +9,5 @@
 * batter
 * masala
 * oil
+* karam
+* 
